@@ -9,7 +9,7 @@ Clone this repo
 In your repo, create a text file called .env with the following contents:
 
     PORT = 3978
-    LUIS_MODEL = url_for_the_built-in_cortana_model_without_the_trailing_&q=
+    LUIS_APP_MODEL = url_for_the_built-in_cortana_model_without_the_trailing_&q=
 
 Once you have registered your bot with the Bot Framework, add your bot's credentials:
  
